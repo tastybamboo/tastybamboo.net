@@ -1,127 +1,121 @@
 # Panda Sanctuary Demo Images
 
-High-resolution panda photographs from Unsplash for use in the Panda CMS demo site.
+High-resolution giant panda photographs for use in the Panda CMS demo site. All images have been verified to actually contain pandas (after initial quality control failures).
 
 ## Image Credits
 
-All images are used under the [Unsplash License](https://unsplash.com/license), which allows free use for commercial and non-commercial purposes.
+Images are sourced from Unsplash and Pexels under their respective free licenses.
 
-### Downloaded Images (11 total)
+### Verified Panda Images (15 total)
 
-#### 1. panda-on-wood.jpg (860KB)
-- **Photographer:** [James Barker](https://unsplash.com/@barkernotbaker)
-- **Source:** [Unsplash](https://unsplash.com/photos/white-and-black-panda-on-wood-QbRbkNM4-kk)
-- **Description:** White and black panda on wood
+#### From Original Collection (Verified - 4 images)
 
-#### 2. panda-tree-trunk.jpg (519KB)
-- **Photographer:** [Miles Noble](https://unsplash.com/@milesnoble)
-- **Source:** [Unsplash](https://unsplash.com/photos/panda-bear-on-tree-trunk-Fmkf0HZPPsQ)
-- **Description:** Panda bear on tree trunk
+1. **giant-panda-bamboo.jpg** (197KB)
+   - Giant panda on wooden structure
+   - Source: To be identified
 
-#### 3. panda-relaxing-rock.jpg (1.1MB)
-- **Photographer:** [Manseok](https://unsplash.com/@manseok)
-- **Source:** [Unsplash](https://unsplash.com/photos/white-and-black-panda-relaxing-on-rock-94c2BwxqwXw)
-- **Description:** White and black panda relaxing on rock
+2. **panda-branch.jpg** (315KB)
+   - Giant panda eating bamboo leaves on branch
+   - Source: To be identified
 
-#### 4. panda-bamboo-sticks.jpg (860KB)
-- **Photographer:** [James Barker](https://unsplash.com/@barkernotbaker)
-- **Source:** [Unsplash](https://unsplash.com/photos/panda-bear-sitting-on-bamboo-sticks-surrounded-with-trees-NsNRu6dfRds)
-- **Description:** Panda bear sitting on bamboo sticks surrounded with trees
+3. **panda-resting.jpg** (167KB)
+   - Giant panda in resting position
+   - Source: To be identified
 
-#### 5. two-pandas-floor.jpg (325KB)
-- **Photographer:** [Jenny Ueno Herrero](https://unsplash.com/@jennyuenoherrero)
-- **Source:** [Unsplash](https://unsplash.com/photos/two-white-and-black-pandas-lying-on-floor-during-daytime-4EajIuUxgAQ)
-- **Description:** Two white and black pandas lying on floor during daytime
+4. **panda-zoo.jpg** (390KB)
+   - Giant panda eating bamboo at zoo
+   - Source: To be identified
 
-#### 6. panda-gray-plank.jpg (639KB)
-- **Photographer:** [NEOM](https://unsplash.com/@neom)
-- **Source:** [Unsplash](https://unsplash.com/photos/panda-bear-on-gray-plank-near-green-plant-GYpsSWHslHA)
-- **Description:** Panda bear on gray plank near green plant
+#### From Unsplash (Verified - 7 images)
 
-#### 7. panda-tree-2.jpg (867KB)
-- **Photographer:** [Pablo Merchán Montes](https://unsplash.com/@_pablomerchanm)
-- **Source:** [Unsplash](https://unsplash.com/photos/panda-on-tree-1o8VV8yOw40)
-- **Description:** Panda on tree
+5. **panda-on-wood.jpg** (860KB)
+   - Photographer: [James Barker](https://unsplash.com/@barkernotbaker)
+   - Source: [Unsplash](https://unsplash.com/photos/white-and-black-panda-on-wood-QbRbkNM4-kk)
 
-#### 8. panda-eating-plant.jpg (1.0MB)
-- **Photographer:** [Raghav Arumugam](https://unsplash.com/@raghav_arumugam)
-- **Source:** [Unsplash](https://unsplash.com/photos/panda-eating-plant-6DSID8Ey9-U)
-- **Description:** Panda eating plant
+6. **panda-tree-trunk.jpg** (519KB)
+   - Photographer: [Miles Noble](https://unsplash.com/@milesnoble)
+   - Source: [Unsplash](https://unsplash.com/photos/panda-bear-on-tree-trunk-Fmkf0HZPPsQ)
 
-#### 9. panda-tree-branch.jpg (303KB)
-- **Photographer:** [CHUTTERSNAP](https://unsplash.com/@chuttersnap)
-- **Source:** [Unsplash](https://unsplash.com/photos/panda-bear-on-brown-tree-branch-during-daytime-qgpLJ1T8KeA)
-- **Description:** Panda bear on brown tree branch during daytime
+7. **panda-relaxing-rock.jpg** (1.1MB)
+   - Photographer: [Manseok](https://unsplash.com/@manseok)
+   - Source: [Unsplash](https://unsplash.com/photos/white-and-black-panda-relaxing-on-rock-94c2BwxqwXw)
 
-#### 10. panda-wooden-fence.jpg (485KB)
-- **Photographer:** [Gian Cescon](https://unsplash.com/@giancescon)
-- **Source:** [Unsplash](https://unsplash.com/photos/white-and-black-panda-on-brown-wooden-fence-during-daytime-e3mu-MTj7Xk)
-- **Description:** White and black panda on brown wooden fence during daytime
+8. **panda-bamboo-sticks.jpg** (860KB)
+   - Photographer: [James Barker](https://unsplash.com/@barkernotbaker)
+   - Source: [Unsplash](https://unsplash.com/photos/panda-bear-sitting-on-bamboo-sticks-surrounded-with-trees-NsNRu6dfRds)
 
-#### 11. panda-walking-concrete.jpg (1.5MB)
-- **Photographer:** [Cody Board](https://unsplash.com/@codyboard)
-- **Source:** [Unsplash](https://unsplash.com/photos/walking-panda-front-of-concrete-building-fFO5DsFV5gk)
-- **Description:** Walking panda front of concrete building
+9. **panda-tree-2.jpg** (867KB)
+   - Photographer: [Pablo Merchán Montes](https://unsplash.com/@_pablomerchanm)
+   - Source: [Unsplash](https://unsplash.com/photos/panda-on-tree-1o8VV8yOw40)
 
-### Original Collection Images (4 total)
+10. **panda-tree-branch.jpg** (303KB)
+    - Photographer: [CHUTTERSNAP](https://unsplash.com/@chuttersnap)
+    - Source: [Unsplash](https://unsplash.com/photos/panda-bear-on-brown-tree-branch-during-daytime-qgpLJ1T8KeA)
 
-These images were part of the original demo collection:
+11. **panda-two-together.jpg** (860KB)
+    - Duplicate of panda-on-wood.jpg
+    - Photographer: [James Barker](https://unsplash.com/@barkernotbaker)
 
-#### 12. giant-panda-bamboo.jpg (197KB)
-- **Description:** Giant panda on wooden bench
-- **Source:** To be identified
+#### New Additions from Unsplash/Pexels (4 images)
 
-#### 13. panda-branch.jpg (315KB)
-- **Description:** Panda eating bamboo on branch
-- **Source:** To be identified
+12. **panda-eating-bamboo-green.jpg** (476KB)
+    - Giant panda eating bamboo in green foliage
+    - Source: Unsplash
 
-#### 14. panda-resting.jpg (167KB)
-- **Description:** Panda in resting position
-- **Source:** To be identified
+13. **panda-bamboo-closeup.jpg** (794KB)
+    - Close-up of giant panda eating bamboo leaves
+    - Source: Unsplash
 
-#### 15. panda-zoo.jpg (390KB)
-- **Description:** Panda eating bamboo at zoo
-- **Source:** To be identified
+14. **panda-sitting-bamboo.jpg** (548KB)
+    - Giant panda sitting with bamboo
+    - Source: Pexels Photo #3608263
+
+15. **panda-mother-baby.jpg** (250KB)
+    - Mother panda with baby panda
+    - Source: Pexels Photo #1661535
+
+## Removed Images (Quality Control Failures)
+
+The following images were removed as they did NOT contain pandas:
+
+- ❌ **panda-eating-plant.jpg** - Was actually a TIGER
+- ❌ **panda-gray-plank.jpg** - Was actually a SCOTTISH FOLD CAT  
+- ❌ **panda-walking-concrete.jpg** - Was actually a CAT with yellow bandana
+- ❌ **panda-wooden-fence.jpg** - Was actually a SWIMMING POOL
+- ❌ **two-pandas-floor.jpg** - Was actually a SCHOOLGIRL writing on chalkboard
 
 ## Usage in Panda CMS
 
-These images are referenced in the Panda CMS demo site:
+Images hosted via GitHub CDN at:
+```
+https://raw.githubusercontent.com/tastybamboo/tastybamboo.net/main/assets/images/demo/pandas/
+```
 
-- **Homepage Hero:** `panda-walking-concrete.jpg`
+Currently used in demo templates:
+- **Homepage Hero:** panda-eating-bamboo-green.jpg
 - **Homepage Cards:**
-  - Meet Our Pandas: `two-pandas-floor.jpg`
-  - Conservation: `panda-tree-branch.jpg`
-  - Plan Your Visit: `panda-wooden-fence.jpg`
+  - Meet Our Pandas: panda-two-together.jpg
+  - Conservation: panda-tree-branch.jpg
+  - Plan Your Visit: panda-sitting-bamboo.jpg
 
-## Unsplash License
+## Licenses
 
-The Unsplash License allows you to:
-- ✅ Use photos for free
-- ✅ Use photos for commercial and non-commercial purposes
-- ✅ No permission needed from the photographer or Unsplash
-- ✅ Modify and redistribute the photos
+### Unsplash License
+- ✅ Free for commercial and non-commercial use
+- ✅ No permission required
+- ✅ Attribution appreciated but not required
 
-You may NOT:
-- ❌ Sell unmodified copies of a photo (e.g., as a poster, print, or on a physical product)
-- ❌ Compile photos to replicate a similar or competing service
-- ❌ Use photos to imply endorsement of your product by the photographer or Unsplash
+### Pexels License
+- ✅ Free for commercial and non-commercial use
+- ✅ No permission required
+- ✅ Attribution appreciated but not required
 
-Attribution is not required under the Unsplash License, but we provide it as a courtesy to the talented photographers who make their work freely available.
+## Collection Statistics
 
-## Contributing
-
-If you'd like to add more panda images:
-
-1. Search [Unsplash for pandas](https://unsplash.com/s/photos/panda)
-2. Download high-resolution images (1920px+ width recommended)
-3. Add credits to this README
-4. Update the Panda CMS sanctuary demo credits page
-
-## Total Collection
-
-- **15 images**
-- **Total size:** ~10MB
+- **Total Images:** 15 verified giant panda photographs
+- **Total Size:** ~8.5MB
 - **Format:** JPEG
-- **Average resolution:** 2000px width
+- **Average Resolution:** 1920px width
+- **Quality Control:** 100% pandas (5 non-panda images removed)
 
 Last updated: January 12, 2026
